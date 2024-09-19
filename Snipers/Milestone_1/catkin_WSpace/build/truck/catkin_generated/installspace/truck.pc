@@ -1,0 +1,8 @@
+prefix=/home/doaa/catkin_WSpace/install
+
+Name: truck
+Description: Description of truck
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

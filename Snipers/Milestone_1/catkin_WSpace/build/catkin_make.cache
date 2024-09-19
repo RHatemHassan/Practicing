@@ -1,0 +1,2 @@
+pioneer_location_visulize:truck:tutorial_1
+-DCATKIN_DEVEL_PREFIX=/home/doaa/catkin_WSpace/devel -DCMAKE_INSTALL_PREFIX=/home/doaa/catkin_WSpace/install -G Unix Makefiles

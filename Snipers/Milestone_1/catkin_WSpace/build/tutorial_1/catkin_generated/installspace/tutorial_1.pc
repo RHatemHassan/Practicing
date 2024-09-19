@@ -1,0 +1,8 @@
+prefix=/home/doaa/catkin_WSpace/install
+
+Name: tutorial_1
+Description: Description of tutorial_1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
